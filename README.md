@@ -2,4 +2,4 @@
 For Temperature and Motion Detect
 
 
-## Project Nots
+## Project Notes
